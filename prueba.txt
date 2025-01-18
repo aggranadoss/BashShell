@@ -1,0 +1,2 @@
+Valores con Echo 
+Escritura con CAT EOM
